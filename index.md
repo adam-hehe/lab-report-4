@@ -21,9 +21,9 @@ Keys Pressed: `cd<space>l<tab><enter>`, `bash<space>t<tab><enter>`. The first co
 Keys Pressed: `vim<space><shift-l><tab>.<tab><enter>`, `<:$><enter><k><k><k><k><e><x><i><2><esc><:wq><enter>`. The first command takes me to the vim file of ListExamples.java, the second command allowed for me to make the necessary change to the file. `<:$><enter>` This command took me all the way to the bottom of the file, saving me a lot of down arrow key presses. Eack `<k>` press took my cursor up one line. Each `<e>` took me to the end of the first word in the line. By the time I pressed `<x>` my curor was on the number that needed to be changed and deleted it. `<i>` put me into insert mode. `<2>` addeded "2" where the 1 was just deleted. `<esc>` put me back into normal mode. `<:wq><enter>` The `wq` quit the vim editor and kept all changes that I made.
 
 ## Step 8
-![Image](step4.png)
-Keys Pressed:
+![Image](step8.png)
+Keys Pressed: `<up><up><up><enter>`. I went back into my terminal history until I got back to the bash command I ran earlier, then excuted the tests again and they all passed.
 
 ## Step 9
-![Image](step4.png)
-Keys Pressed:
+![Image](step9.png)
+Keys Pressed: `git commit -a<enter>`, `Lab Report finished!<:wq><enter>`. My first command makes sure all files modifed are commited. (In this case it was only the one ListExamples.java). Then it prompted me to add a message in a vim editor, which I did and saved. My changes were then sucessfully pushed to github.
