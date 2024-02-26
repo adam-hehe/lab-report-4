@@ -17,8 +17,8 @@ Keys Pressed: `git<space>clone<space><cmd-v>`. The `<cmd-v>` command pasted the 
 Keys Pressed: `cd<space>l<tab><enter>`, `bash<space>t<tab><enter>`. The first command I ran put me into my `lab7/` directory and the second command ran the tests using the bash command. The use of `<tab>` im my key presses was to auto-complete the directory/file.
 
 ## Step 7
-![Image](step6.png)
-Keys Pressed: `vim<space><shift-l><tab>.<tab><enter>`, `<:$><enter><k><k><k><k><e><e><e><x><i><2><esc><:wq><enter>`
+![Image](step7.png)
+Keys Pressed: `vim<space><shift-l><tab>.<tab><enter>`, `<:$><enter><k><k><k><k><e><x><i><2><esc><:wq><enter>`. The first command takes me to the vim file of ListExamples.java, the second command allowed for me to make the necessary change to the file. `<:$><enter>` This command took me all the way to the bottom of the file, saving me a lot of down arrow key presses. Eack `<k>` press took my cursor up one line. Each `<e>` took me to the end of the first word in the line. By the time I pressed `<x>` my curor was on the number that needed to be changed and deleted it. `<i>` put me into insert mode. `<2>` addeded "2" where the 1 was just deleted. `<esc>` put me back into normal mode. `<:wq><enter>` The `wq` quit the vim editor and kept all changes that I made.
 
 ## Step 8
 ![Image](step4.png)
