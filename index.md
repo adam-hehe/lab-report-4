@@ -9,7 +9,8 @@ Editing the code to fix the failing tests
 Keys Pressed: `ssh<space>adconnor@ieng6-201.ucsd.edu<enter>`. This command logged me into `ieng6-201`, I was not asked for my password because I have already generated an `ssh` key on my computer.
 
 ## Step 5
-![Image](step5.png)
+![Image](setp5.png)
+Keys Pressed: `git<space>clone<space><cmd>-v`. The `<cmd>-v` command pasted the ssh link connected with my Github account. The purpose of using the ssh github link is so that I am able to clone and push my changes onto my lab7 fork.
 
 ## Step 6
 ![Image](step4.png)
