@@ -31,3 +31,6 @@ Keys Pressed: `<up><up><up><enter>`. I went back into my terminal history until 
 **Commit and push the resulting change to your Github account**
 ![Image](step9.png)
 Keys Pressed: `git commit -a<enter>`, `Lab Report finished!<:wq><enter>`. My first command makes sure all files modifed are commited. (In this case it was only the one ListExamples.java). Then it prompted me to add a message in a vim editor, which I did and saved. My changes were then sucessfully pushed to github.
+
+![Image](step9_2.png)
+Keys Pressed: `git push<enter>`. Finally I pushed the making the change to my github repository.
